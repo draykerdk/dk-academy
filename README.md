@@ -1,5 +1,3 @@
-# Dk Academy
-
 > Learning the thing you are about to work on, so that arriving without a degree is a starting point and not a wall.
 
 **Study and work, no longer two separate things.**
