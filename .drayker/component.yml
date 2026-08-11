@@ -1,0 +1,35 @@
+schema_version: 1
+component:
+  id: academy
+  name: Dk Academy
+  layer: APPLICATION
+  artifact_type: architecture
+  problem: "Open projects ask for expertise they do not teach, which quietly restricts them to people who already had access."
+  scope:
+    - "Public description of formation attached to real functions."
+    - "Public description of a personalised path, bound to UID."
+    - "Public description of learning that returns to the knowledge base."
+    - "Public description of entry without credentials."
+  non_scope:
+    - "An accredited course, a certification or a qualification."
+    - "A promise of placement, funding or employment."
+  dependencies:
+    - dknowledge
+    - uid
+    - pap
+  implementation:
+    level: none
+    scope: This repository publishes a charter and open questions; nothing is implemented.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - Design language may be mistaken for an available capability.
+    - The absence of a specification can leave contributions without a clear target.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/dk-academy/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/dk-academy
+    path: README.md
+  last_reviewed: "2026-08-11"
