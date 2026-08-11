@@ -4,6 +4,8 @@
 
 Continuous, personalised formation attached to real work: someone learns the thing they are about to contribute to, and contributing is how the learning gets used. Built so that arriving without credentials is a starting point rather than a disqualification.
 
+**It is not a gate.** The Academy is not a requirement for taking part and does not certify anyone automatically. You can pick up a function today without passing through it. It exists to make that easier, never to stand in front of it.
+
 ## The problem it addresses
 
 Open projects ask for expertise they do not teach, which quietly restricts them to people who already had access. Formation is the difference between an open door and a door that only looks open.
@@ -25,12 +27,14 @@ document about it has somewhere to live and someone can argue with it in public.
 
 - Formation attached to real functions
 - A personalised path, bound to UID
+- Problem-led learning, with mentoring and feedback
 - Learning that returns to the knowledge base
 - Entry without credentials
 
 ## Not in scope
 
 - An accredited course, a certification or a qualification.
+- A prerequisite for participating in Drayker, or an automatic certifier.
 - A promise of placement, funding or employment.
 
 ## Role in the system
@@ -46,9 +50,11 @@ How someone becomes able to take a function.
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Describe the first path someone should be able to take.
-2. Write how a function and a lesson attach to each other.
-3. Argue what makes an open project genuinely enterable.
+1. Build one pilot learning experience: a single problem, one observable delivery and
+   one human review. Small enough to run, concrete enough to judge.
+2. Describe the first path someone should be able to take.
+3. Write how a function and a lesson attach to each other.
+4. Argue what makes an open project genuinely enterable.
 
 ## How to contribute
 
