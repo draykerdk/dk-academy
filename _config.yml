@@ -6,12 +6,6 @@ dk_kicker: "Formation"
 dk_subdomain: "academy.drayker.org"
 dk_repo: "https://github.com/draykerdk/dk-academy"
 
-# The mark, drawn by the shared engine. The scope colour is the main accent until the
-# mark owner assigns one — DRAYKER-MARK.md §7 forbids inventing a new colour.
-dk_body: "star"
-dk_rings: "hairline"
-dk_wedge: "terraform"
-dk_accent: "#FF5500"
 
 # jekyll-remote-theme fetches the shared layout; jekyll-optional-front-matter lets
 # README.md render without front matter; the defaults block is what actually applies
@@ -26,4 +20,7 @@ defaults:
       path: ""
     values:
       layout: default
-dk_sphere: "star"  # formation: the part that gives off light
+
+# The official mark, recoloured. Geometry is fixed for every project
+# (DRAYKER-MARK.md §2.5); only the globe carries the scope.
+dk_accent: "#D6E84A"  # formation: the part that gives off light
