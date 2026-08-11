@@ -8,10 +8,12 @@ component:
   scope:
     - "Public description of formation attached to real functions."
     - "Public description of a personalised path, bound to UID."
+    - "Public description of problem-led learning, with mentoring and feedback."
     - "Public description of learning that returns to the knowledge base."
     - "Public description of entry without credentials."
   non_scope:
     - "An accredited course, a certification or a qualification."
+    - "A prerequisite for participating in Drayker, or an automatic certifier."
     - "A promise of placement, funding or employment."
   dependencies:
     - dknowledge
