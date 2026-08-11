@@ -26,3 +26,4 @@ defaults:
       path: ""
     values:
       layout: default
+dk_sphere: "star"  # formation: the part that gives off light
