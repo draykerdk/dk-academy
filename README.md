@@ -37,11 +37,11 @@ document about it has somewhere to live and someone can argue with it in public.
 - A prerequisite for participating in Drayker, or an automatic certifier.
 - A promise of placement, funding or employment.
 
-## Role in the system
+## How it fits the whole
 
-How someone becomes able to take a function.
+How someone becomes able to take a function — the bridge where study stops being preparation and becomes participation.
 
-**Relations.** Reads from Dknowledge · attached to work on the projects platform · identity through UID.
+In Drayker, work and study converge: the repetitive load goes to the machines, and what stays with people is the creating, the discovering and the learning. The Academy is where that learning is shaped to a real function, so contributing is how the study gets used. It reads from [Dknowledge](https://dknowledge.drayker.org) and feeds what people learn back into it; formation is attached to work on the [projects platform](https://pap.drayker.org), so entering without credentials is a starting point rather than a wall. Identity runs through it via [UID](https://uid.drayker.org) — the same profile the [Dk](https://dk.drayker.org) personal agent keeps, the same profile volunteer levels and [universal basic income](https://support.drayker.org) are evaluated against. The [stations](https://stations.drayker.org) carry the physical side: spaces, laboratories, and the communities where the study happens together.
 
 **Depends on.** `dknowledge` · `uid` · `pap`
 
