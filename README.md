@@ -14,11 +14,11 @@ Open projects ask for expertise they do not teach, which quietly restricts them 
 
 **What would change.** Formation is attached to real work: you learn it, you use it, and what you learned goes back for the next person.
 
-**Why the rest depends on it.** An organization that cannot teach can only recruit — and it will keep recruiting from the same places.
+**Why the rest depends on it.** An organization that cannot teach can only recruit, and it will keep recruiting from the same places.
 
 ## Where this stands
 
-Drayker has internal material on the academy that is not published yet; nothing public states what the first path would be, how a lesson attaches to a function, or how somebody is supported while learning.
+Drayker has internal material on the academy that is not published yet. Nothing public states what the first path would be, how a lesson attaches to a function, or how somebody is supported while learning.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -69,11 +69,11 @@ Participation is voluntary and implies no compensation, employment or future cla
 ## Sources of truth
 
 - This repository, for what Dk Academy is and is not.
-- [`.drayker/component.yml`](.drayker/component.yml) — the machine-readable contract,
+- [`.drayker/component.yml`](.drayker/component.yml). The machine-readable contract,
   validated on every pull request.
-- [drayker.org/project/academy/](https://drayker.org/project/academy/) — the same record
+- [drayker.org/project/academy/](https://drayker.org/project/academy/). The same record
   inside the portal, with the live board.
-- [drayker.com/project/academy/](https://drayker.com/project/academy/) — the case for it,
+- [drayker.com/project/academy/](https://drayker.com/project/academy/). The case for it,
   in plain terms.
 
 ---
