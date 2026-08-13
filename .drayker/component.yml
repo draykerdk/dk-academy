@@ -2,7 +2,7 @@ schema_version: 1
 component:
   id: academy
   name: Dk Academy
-  layer: APPLICATION
+  layer: KNOWLEDGE
   artifact_type: architecture
   problem: "Open projects ask for expertise they do not teach, which quietly restricts them to people who already had access."
   scope:
