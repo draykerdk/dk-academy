@@ -30,6 +30,7 @@ document about it has somewhere to live and someone can argue with it in public.
 - Problem-led learning, with mentoring and feedback
 - Learning that returns to the knowledge base
 - Entry without credentials
+- A learning loop from conceptual formation to contextual learning, real function, consequence, Dknowledge and improved formation
 
 ## Not in scope
 
@@ -41,7 +42,9 @@ document about it has somewhere to live and someone can argue with it in public.
 
 How someone becomes able to take a function — the bridge where study stops being preparation and becomes participation.
 
-In Drayker, work and study converge: the repetitive load goes to the machines, and what stays with people is the creating, the discovering and the learning. The Academy is where that learning is shaped to a real function, so contributing is how the study gets used. It reads from [Dknowledge](https://dknowledge.drayker.org) and feeds what people learn back into it — the personal Dknowledge of the learner and the Dknowledge of the projects they form in, each scale of knowledge growing with the study. Formation is attached to work on the [projects platform](https://pap.drayker.org), so entering without credentials is a starting point rather than a wall. Identity runs through it via [UID](https://uid.drayker.org) — the same profile the [Dk](https://dk.drayker.org) personal agent keeps, the same profile volunteer levels and [universal basic income](https://support.drayker.org) are evaluated against. The [stations](https://stations.drayker.org) carry the physical side: spaces, laboratories, and the communities where the study happens together.
+In Drayker, work and study converge: the repetitive load goes to the machines, and what stays with people is the creating, the discovering and the learning. The Academy is where that learning is shaped to a real function, so contributing is how the study gets used. It reads from [Dknowledge](https://dknowledge.drayker.org) and feeds verified learning back into it — the personal Dknowledge of the learner and the Dknowledge of the projects they form in, each scale growing with provenance and authorization. Formation is attached to work on the [projects platform](https://pap.drayker.org), so entering without credentials is a starting point rather than a wall.
+
+The loop is explicit: **conceptual formation → contextual learning → real function → action and consequence → feedback and Dknowledge → improved formation for the next cycle**. Identity runs through it via [UID](https://uid.drayker.org), preserving continuity and attribution. Learning history and contribution may inform contextual reputation, but access to [Distributed Support](https://support.drayker.org) is not an academic prize and is not evaluated from one Academy profile; educational support is one path inside that broader member-support program. The [stations](https://stations.drayker.org) may carry a physical side: spaces, laboratories and communities where study happens together.
 
 **Depends on.** `dknowledge` · `uid` · `pap`
 
