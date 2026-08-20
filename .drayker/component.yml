@@ -10,6 +10,7 @@ component:
     - "Public description of a personalised path, bound to UID."
     - "Public description of problem-led learning, with mentoring and feedback."
     - "Public description of learning that returns to the knowledge base."
+    - "Public description of the loop from conceptual formation to contextual learning, real function, consequence, Dknowledge and improved formation."
     - "Public description of entry without credentials."
   non_scope:
     - "An accredited course, a certification or a qualification."
@@ -34,4 +35,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/dk-academy
     path: README.md
-  last_reviewed: "2026-08-11"
+  last_reviewed: "2026-08-20"
