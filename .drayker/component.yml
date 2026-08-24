@@ -4,13 +4,13 @@ component:
   name: Dk Academy
   layer: KNOWLEDGE
   artifact_type: architecture
-  problem: "Formation is integration and capacity: participating in the educational system builds a member's relation with the whole, and it is one of the main paths through which a new member constructs trust and capability."
+  problem: "Open projects ask for expertise they do not teach, which quietly restricts them to people who already had access."
   scope:
     - "Public description of formation attached to real functions."
-    - "Public description of education as integration and as a path for new members to build trust."
     - "Public description of a personalised path, bound to UID."
     - "Public description of problem-led learning, with mentoring and feedback."
     - "Public description of learning that returns to the knowledge base."
+    - "Public description of the loop from conceptual formation to contextual learning, real function, consequence, Dknowledge and improved formation."
     - "Public description of entry without credentials."
   non_scope:
     - "An accredited course, a certification or a qualification."
@@ -29,11 +29,10 @@ component:
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
-    - Education could be mistaken for a scoring or ranking device; it is integration, never a measure of rights or worth.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/dk-academy/issues
   source_of_truth:
     repository: https://github.com/draykerdk/dk-academy
     path: README.md
-  last_reviewed: "2026-08-17"
+  last_reviewed: "2026-08-20"
