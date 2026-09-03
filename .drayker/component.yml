@@ -7,6 +7,8 @@ component:
   problem: "Open projects ask for expertise they do not teach, which quietly restricts them to people who already had access."
   scope:
     - "Public description of formation attached to real functions."
+    - "Public description of active pedagogy in the Dewey and Montessori tradition, with situated learning through bounded real-world micro-functions."
+    - "Public declaration that learner participation is governed by educational goals of autonomy, method and competence."
     - "Public description of a personalised path, bound to UID."
     - "Public description of problem-led learning, with mentoring and feedback."
     - "Public description of learning that returns to the knowledge base."
@@ -14,6 +16,7 @@ component:
     - "Public description of entry without credentials."
   non_scope:
     - "An accredited course, a certification or a qualification."
+    - "Compulsory productive quotas or output targets for minors or learners, economic dependency, or substitution of adult labour."
     - "A prerequisite for participating in Drayker, or an automatic certifier."
     - "A promise of placement, funding or employment."
   dependencies:
@@ -29,10 +32,11 @@ component:
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
+    - Learning through real micro-functions could be misunderstood or misused as unpaid or child labour without an explicit safeguard against productive quotas and adult-labour substitution.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/dk-academy/issues
   source_of_truth:
     repository: https://github.com/draykerdk/dk-academy
     path: README.md
-  last_reviewed: "2026-08-20"
+  last_reviewed: "2026-09-03"
