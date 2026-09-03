@@ -6,6 +6,8 @@ Continuous, personalised formation attached to real work: someone learns the thi
 
 **It is not a gate.** The Academy is not a requirement for taking part and does not certify anyone automatically. You can pick up a function today without passing through it. It exists to make that easier, never to stand in front of it.
 
+**Active-pedagogy safeguard.** Learning by doing through real-world micro-functions follows the active-pedagogy tradition associated with John Dewey and Maria Montessori: bounded, meaningful practice exists to develop autonomy, method and competence. Learners — especially minors — cannot be given productive quotas, made economically dependent on their output or used to substitute adult labour. Educational purpose and learner welfare govern participation.
+
 ## The problem it addresses
 
 Open projects ask for expertise they do not teach, which quietly restricts them to people who already had access. Formation is the difference between an open door and a door that only looks open.
@@ -26,6 +28,7 @@ document about it has somewhere to live and someone can argue with it in public.
 ## Scope
 
 - Formation attached to real functions
+- Active and situated learning through bounded real-world micro-functions, governed by learner autonomy and competence
 - A personalised path, bound to UID
 - Problem-led learning, with mentoring and feedback
 - Learning that returns to the knowledge base
@@ -35,6 +38,7 @@ document about it has somewhere to live and someone can argue with it in public.
 ## Not in scope
 
 - An accredited course, a certification or a qualification.
+- Compulsory productive quotas or output targets for minors or learners, economic dependency, or substitution of adult labour.
 - A prerequisite for participating in Drayker, or an automatic certifier.
 - A promise of placement, funding or employment.
 
