@@ -1,27 +1,24 @@
-> Learning the thing you are about to work on, so that arriving without a degree is a starting point and not a wall.
+> Learning paths connected to curiosity and meaningful participation.
 
-**Study and work, no longer two separate things.**
+The Academy proposes continuous, personalised learning connected to questions people want to explore and work they want to undertake.
 
-Continuous, personalised formation attached to real work: someone learns the thing they are about to contribute to, and contributing is how the learning gets used. Built so that arriving without credentials is a starting point rather than a disqualification.
+Learning paths would connect concepts, practice and feedback to a person’s context, with projects offering opportunities to apply and deepen understanding.
 
-**It is not a gate.** The Academy is not a requirement for taking part and does not certify anyone automatically. You can pick up a function today without passing through it. It exists to make that easier, never to stand in front of it.
+Education supports autonomy and continued discovery. The Academy is an optional support for participation, with room for exploration beyond an immediate task.
+
+## A practical example
+
+Someone interested in a modelling function could study its underlying concepts, practise on a worked case and receive feedback before extending the project. This is an illustration of the proposed design.
 
 ## The problem it addresses
 
-Open projects ask for expertise they do not teach, which quietly restricts them to people who already had access. Formation is the difference between an open door and a door that only looks open.
-
-**How it works today.** Open projects ask for expertise they do not teach, and quietly stay open only to people who already had access.
-
-**What would change.** Formation is attached to real work: you learn it, you use it, and what you learned goes back for the next person.
-
-**Why the rest depends on it.** An organization that cannot teach can only recruit, and it will keep recruiting from the same places.
+Open participation becomes more accessible when people can acquire the knowledge a contribution requires. Credentials alone do not describe every person’s ability or potential.
 
 ## Where this stands
 
 Drayker has internal material on the academy that is not published yet. Nothing public states what the first path would be, how a lesson attaches to a function, or how somebody is supported while learning.
 
-Nothing described here is implemented. This repository exists so that the first
-document about it has somewhere to live and someone can argue with it in public.
+This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
 ## Scope
 
