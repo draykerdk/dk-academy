@@ -14,6 +14,10 @@ Someone interested in a modelling function could study its underlying concepts, 
 
 Open participation becomes more accessible when people can acquire the knowledge a contribution requires. Credentials alone do not describe every person’s ability or potential.
 
+## No queue and no limit
+
+The Academy has no queue and no limit on who can study or how much. It teaches through the project system and through [Dk Personal](https://personal.drayker.org), on a platform that builds each person's study schedule from their affinities and goals. Someone who wants to study at night, between jobs, gets a route made for that. When the person gets stuck, Dk asks at which step the reasoning stopped and works from there, instead of letting one difficulty become a verdict about the whole person. The first real micro-functions come as soon as the person can contribute: checking a measurement, comparing data, flagging what does not match.
+
 ## Where this stands
 
 Drayker has internal material on the academy that is not published yet. Nothing public states what the first path would be, how a lesson attaches to a function, or how somebody is supported while learning.
