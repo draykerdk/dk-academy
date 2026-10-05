@@ -16,7 +16,7 @@ Open participation becomes more accessible when people can acquire the knowledge
 
 ## No queue and no limit
 
-The Academy has no queue and no limit on who can study or how much. It teaches through the project system and through [Dk Personal](https://personal.drayker.org), on a platform that builds each person's study schedule from their affinities and goals. Someone who wants to study at night, between jobs, gets a route made for that. When the person gets stuck, Dk asks at which step the reasoning stopped and works from there, instead of letting one difficulty become a verdict about the whole person. The first real micro-functions come as soon as the person can contribute: checking a measurement, comparing data, flagging what does not match.
+The Academy has no queue and no limit on who can study or how much. It teaches through the project system and through [Dk Personal](https://personal.drayker.org), on a platform that builds each person's study schedule from their affinities and goals. Dk is meant to be the best teacher a person can have, and people learn with it and with their project colleagues, in practice. Someone who wants to study at night, between jobs, gets a route made for that. When the person gets stuck, Dk asks at which step the reasoning stopped and works from there, instead of letting one difficulty become a verdict about the whole person. The first real micro-functions come as soon as the person can contribute: checking a measurement, comparing data, flagging what does not match.
 
 ## Where this stands
 
