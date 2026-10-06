@@ -2,7 +2,7 @@
 
 > The Academy proposes continuous, personalised learning connected to questions people want to explore and work they want to undertake.
 
-Dk Academy is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Dk Academy is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
