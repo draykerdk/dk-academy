@@ -16,7 +16,7 @@ component:
     - "Public description of entry without credentials."
   non_scope:
     - "An accredited course, a certification or a qualification."
-    - "Productive quotas, commercial work pressure or economic dependency for minors (strict prohibition of digital child labor or sweatshop mechanics)."
+    - "For children and adolescents, any participation other than educational and accompanied: no production goals, no economic dependency, and room for curiosity and exploration even when they deliver nothing to a project."
     - "A prerequisite for participating in Drayker, or an automatic certifier."
     - "A promise of placement, funding or employment."
   dependencies:
@@ -32,7 +32,7 @@ component:
   risks:
     - Design language may be mistaken for an available capability.
     - The absence of a specification can leave contributions without a clear target.
-    - Connecting learning to real functions must never turn into unpaid or exploitative labor for minors.
+    - Connecting learning to real functions must never put production goals on children and adolescents.
   contributions:
     availability: open
     entrypoint: https://github.com/draykerdk/dk-academy/issues
