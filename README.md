@@ -14,13 +14,17 @@ Someone interested in a modelling function could study its underlying concepts, 
 
 Open participation becomes more accessible when people can acquire the knowledge a contribution requires. Credentials alone do not describe every person’s ability or potential.
 
-## No queue and no limit
+## No queue and no limit for learning with Dk
 
-The Academy has no queue and no limit on who can study or how much. It teaches through the project system and through [Dk Personal](https://personal.drayker.org), on a platform that builds each person's study schedule from their affinities and goals. Dk is meant to be the best teacher a person can have, and people learn with it and with their project colleagues, in practice. Someone who wants to study at night, between jobs, gets a route made for that. When the person gets stuck, Dk asks at which step the reasoning stopped and works from there, instead of letting one difficulty become a verdict about the whole person. The first real micro-functions come as soon as the person can contribute: checking a measurement, comparing data, flagging what does not match.
+Formation with Dk and the platform's materials has no queue and no limit on who can study or how much. Human mentoring, laboratories and the spaces of stations are scarce resources, and while capacity is short they follow the queue of the [common floor](https://support.drayker.org).
+
+The Academy teaches through the project system and through [Dk Personal](https://personal.drayker.org), on a platform that builds each person's study schedule from their affinities and goals. A member can build their own curriculum or start from a model for an area or a function, and change it whenever they want. In project-oriented learning, the person sets the goal from the start and revises the plan every three or six months from their own project, which is broken into problems, the problems into the knowledge they need and the knowledge into what to study. Dk Personal, the [projects platform](https://pap.drayker.org) and the Academy do this together.
+
+Dk is meant to be the best teacher a person can have, and people learn with it and with their project colleagues, in practice. Someone who wants to study at night, between jobs, gets a route made for that. Learning is shaped for each person's cycles and difficulties, including difficulties of focus and attention, so that anyone, of any age or background, can learn from the basics to the advanced at their own rhythm. When the person gets stuck, Dk asks at which step the reasoning stopped and works from there, instead of letting one difficulty become a verdict about the whole person. The first real micro-functions come as soon as the person can contribute: checking a measurement, comparing data, flagging what does not match.
 
 ## Where this stands
 
-Drayker has internal material on the academy that is not published yet. Nothing public states what the first path would be, how a lesson attaches to a function, or how somebody is supported while learning.
+Drayker has internal material on the academy that is not published yet. The first areas foreseen are personal and social intelligence (creativity, emotions, critical thinking, logic, resolving conflicts and problems, ethics and learning itself) and Drayker and computer science (programming and artificial intelligence). A first platform, foreseen in the spirit of École 42, would have learners research the content together, mark progress by DFM-based checks and use Drayker's own projects as assessment. Nothing public yet states the first path within those areas, how a lesson attaches to a function, or how somebody is supported while learning.
 
 This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
@@ -61,7 +65,7 @@ by one person.
 
 1. Build one pilot learning experience: a single problem, one observable delivery and
    one human review. Small enough to run, concrete enough to judge.
-2. Describe the first path someone should be able to take.
+2. Describe the first path someone should be able to take, within the first areas foreseen.
 3. Write how a function and a lesson attach to each other.
 4. Argue what makes an open project genuinely enterable.
 
